@@ -15,4 +15,6 @@ entry: './src/client/index.js',
 
 *Some miscellanious notes:*
 
+bla bla bla
+
 - If you run webpack build and in your text editor you see the dist folder, but nothing inside it - it might still be working. Some text editors will hide folders or folder contents like ```dist```. Yeah... that one didn't have me second guessing myself for like 20 min...
